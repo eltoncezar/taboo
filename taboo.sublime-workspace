@@ -1,0 +1,403 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"table-c",
+				"table-cell"
+			],
+			[
+				"border-le",
+				"border-top-left-radius"
+			],
+			[
+				"border-left",
+				"border-bottom-left-radius"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"play",
+				"player"
+			],
+			[
+				"pl",
+				"playerWH"
+			],
+			[
+				"player",
+				"playerWH"
+			],
+			[
+				"in",
+				"innerHTML"
+			],
+			[
+				"game",
+				"gameState"
+			],
+			[
+				"guesses",
+				"guessesMade"
+			],
+			[
+				"gue",
+				"guessesRemaining"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fill",
+				"fillAndStroke"
+			],
+			[
+				"back",
+				"background	background grey alpha"
+			],
+			[
+				"line",
+				"line	line"
+			],
+			[
+				"size",
+				"size	size"
+			],
+			[
+				"for",
+				"for	for"
+			],
+			[
+				"setup",
+				"setup	setup"
+			]
+		]
+	},
+	"build_system": "Packages/Processing/Processing.sublime-build",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Co",
+				"Package Control: Install Package"
+			],
+			[
+				"PACKAGE CONTROL",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 160.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/eltoncezar/# DEVELOPMENT/# JS GAMES/taboo/index.html",
+		"/C/eltoncezar/# DEVELOPMENT/# JS GAMES/taboo/partials/menu.html",
+		"/C/Sites/crumblr/app/assets/javascripts/application.js",
+		"/C/Sites/crumblr/app/assets/stylesheets/application.css",
+		"/C/Sites/crumblr/SHELL COMMANDS.txt",
+		"/C/Sites/crumblr/README.rdoc",
+		"/C/eltoncezar/Skillshare Course/Sublime Text 2.0.2 x64/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Sites/crumblr/app/assets/stylesheets/pages.css.scss",
+		"/C/Sites/crumblr/app/assets/javascripts/pages.js.coffee",
+		"/C/eltoncezar/# DEVELOPMENT/# JS GAMES/taboo/css/site.css",
+		"/C/Users/elton.cezar/Desktop/tweets.txt",
+		"/C/Users/elton.cezar/Downloads/freela.c",
+		"/C/eltoncezar/# DEVELOPMENT/# JS GAMES/taboo/partials/game.html",
+		"/C/eltoncezar/# DEVELOPMENT/# JS GAMES/taboo/endGame.html",
+		"/C/eltoncezar/# DEVELOPMENT/# JS GAMES/taboo/js/words.json",
+		"/C/eltoncezar/# DEVELOPMENT/# JS GAMES/taboo/js/angular-route.js",
+		"/C/eltoncezar/# DEVELOPMENT/# JS GAMES/taboo/sketch.svg",
+		"/C/eltoncezar/# DEVELOPMENT/# JS GAMES/taboo/partials/endGame.html",
+		"/C/eltoncezar/banhara.txt",
+		"/C/eltoncezar/1.txt",
+		"/C/eltoncezar/# DEVELOPMENT/SublimeText2-EaselJS-Completion-master/README.md",
+		"/C/Users/elton.cezar/Downloads/MUSICAS CASORIO/fu.txt",
+		"/C/eltoncezar/# DEVELOPMENT/# JS GAMES/Alien Attack!/src/index.html",
+		"/C/eltoncezar/# DEVELOPMENT/EaselJS-master/src/easeljs/display/Text.js",
+		"/C/eltoncezar/# DEVELOPMENT/# JS GAMES/Alien Attack!/index.html",
+		"/C/eltoncezar/# DEVELOPMENT/EaselJS-master/VERSIONS.txt",
+		"/C/eltoncezar/# DEVELOPMENT/EaselJS-master/README_SECURITY_ERROR.txt",
+		"/C/eltoncezar/# DEVELOPMENT/EaselJS-master/README_CREATEJS_NAMESPACE.txt",
+		"/C/eltoncezar/# DEVELOPMENT/EaselJS-master/README.md",
+		"/C/eltoncezar/# DEVELOPMENT/EaselJS-master/tools/README.txt",
+		"/C/Users/elton.cezar/Downloads/Motor Rock [MULTI6][PCDVD][SKIDROW][WwW.GamesTorrents.CoM]/Leeme.txt",
+		"/C/eltoncezar/# GAMES/# GBA/gbata7a-en/readme.txt",
+		"/C/Users/elton.cezar/ownCloud/Wii Games.txt",
+		"/C/Users/elton.cezar/AppData/Local/Temp/Temp1_2 Mello - Nastlevania Instrumentals.zip/Please Read Before Using.txt",
+		"/C/eltoncezar/# MUSIC/2 Mello/2 Mello - Nastlevania/Another Note From 2 Mello.txt",
+		"/C/Users/elton.cezar/AppData/Local/Temp/Temp1_2 Mello - Super Producer.zip/Liner Notes.txt",
+		"/C/eltoncezar/# MUSIC/2 Mello - Chrono Jigga/A Thank You from 2 Mello + Tracklist.txt",
+		"/C/eltoncezar/# MUSIC/2 Mello - Chrono Jigga (Instrumentals)(320kbps)/Please Read Before Using!.txt",
+		"/C/eltoncezar/# MUSIC/PirateStorm-BitTorrent-q/run.txt",
+		"/C/Projects/AFS/Source/Development/Sda.Afs.Mvc/Sda.Afs.View.Web/Controllers/OpenAdvancesController.cs",
+		"/C/Users/elton.cezar/Downloads/# JS/chrome-devtools-zerodarkmatrix-theme-master/chrome-devtools-zerodarkmatrix-theme-master/README.md",
+		"/C/Users/elton.cezar/Downloads/# JS/chrome-devtools-zerodarkmatrix-theme-master/chrome-devtools-zerodarkmatrix-theme-master/Custom-Stable.css",
+		"/C/Users/elton.cezar/AppData/Local/Google/Chrome SxS/User Data/Default/User StyleSheets/Custom-Stable.css",
+		"/C/Users/elton.cezar/AppData/Local/Google/Chrome SxS/User Data/Default/User StyleSheets/Custom.css",
+		"/C/Users/elton.cezar/Downloads/castlevania_harmony_of_dissonance_h.txt",
+		"/C/eltoncezar/Skillshare Course/Sublime Text 2.0.2 x64/Data/Packages/User/Preferences.sublime-settings",
+		"/C/Users/elton.cezar/Downloads/jquery.growl/javascripts/jquery.growl.js",
+		"/C/Users/elton.cezar/Downloads/jquery.growl/stylesheets/jquery.growl.css",
+		"/C/Users/elton.cezar/Downloads/menu_sprite/sprite-menu.txt",
+		"/C/Users/elton.cezar/Downloads/# JS/Json50r8/readme.txt",
+		"/C/Users/elton.cezar/Downloads/nf1.txt",
+		"/C/Users/elton.cezar/Downloads/nf2.txt",
+		"/C/Users/elton.cezar/Downloads/elton.txt",
+		"/C/Users/elton.cezar/Downloads/mellow-mosh.vssettings",
+		"/C/Users/elton.cezar/Downloads/1.txt",
+		"/C/Users/elton.cezar/AppData/Local/Google/Chrome/User Data/Default/User StyleSheets/Custom.css",
+		"/C/Users/elton.cezar/Downloads/chrome-devtools-zerodarkmatrix-theme-master/chrome-devtools-zerodarkmatrix-theme-master/canary-theme-extension/styles.css",
+		"/C/Users/elton.cezar/AppData/Local/Temp/Rar$DIa0.348/Custom.css",
+		"/C/Users/elton.cezar/AppData/Local/Temp/Temp1_ui-utils-master.zip/ui-utils-master/modules/utils.js",
+		"/C/Users/elton.cezar/Downloads/Pateando culos.pdf/1389548602403.txt",
+		"/C/Users/elton.cezar/Downloads/Pateando culos.pdf/1389390739846.txt",
+		"/C/Users/elton.cezar/Downloads/menu_sprite/menu_sprite.txt",
+		"/C/Users/elton.cezar/AppData/Local/Temp/Temp1_Adult (3,905,884).zip/Adult (3,905,884)/adult1.txt",
+		"/C/Projects/AFS/Source/Development/Sda.Afs.ViewLayer/Sda.Afs.View.Web/default.aspx",
+		"/E/TESOUREIRO.txt",
+		"/E/Contatos/Agenda.xml",
+		"/C/Users/elton.cezar/AppData/Local/Temp/Temp1_Commercial6.zip/Commercial6/Lawncare/Lawncare E-mail list.txt",
+		"/C/Users/elton.cezar/Downloads/ODN-AM95/1389306527980.txt",
+		"/C/Users/elton.cezar/Downloads/ODN-AM95/1389306565306.txt",
+		"/C/Users/elton.cezar/Downloads/3b4f6ab89c36e88f7bc8a8d72a7162cd.jpg/1388088439511.txt",
+		"/C/Users/elton.cezar/Downloads/annab/1388242714157.txt",
+		"/C/Users/elton.cezar/Downloads/1/FOTOS DA SAFADA E ENDEREÇO DO FACE DELA !/ENDEREÇO DO FACE DELA.txt",
+		"/C/Users/elton.cezar/AppData/Local/Temp/Rar$DIa0.308/1.txt",
+		"/C/Users/elton.cezar/AppData/Local/Temp/Rar$DIa0.865/contato do patrao.txt",
+		"/C/Users/elton.cezar/AppData/Local/Temp/Rar$DIa0.192/conversa.txt",
+		"/C/Users/elton.cezar/AppData/Local/Temp/Rar$DIa0.321/edição.txt",
+		"/C/Users/elton.cezar/AppData/Local/Temp/Rar$DIa0.631/ip.txt",
+		"/C/Users/elton.cezar/AppData/Local/Temp/Rar$DIa0.694/meu mu.txt",
+		"/C/Users/elton.cezar/AppData/Local/Temp/Rar$DIa0.650/ouro todos os muserver do lucas.txt",
+		"/C/Users/elton.cezar/AppData/Local/Temp/Rar$DIa0.005/pedido.txt",
+		"/C/Users/elton.cezar/AppData/Local/Temp/Rar$DIa1.650/server exclusivo de mu.txt",
+		"/C/Users/elton.cezar/AppData/Local/Temp/Rar$DIa0.244/server exclusivo de mu.txt2.txt",
+		"/F/Primo2.1/CONTENT/USERDATA/Rota/LEIA-ME.TXT",
+		"/C/Users/elton.cezar/Downloads/JS/syncfusionessentialjavascript/samples/readme.txt",
+		"/C/Users/elton.cezar/Desktop/mp2032_22-11-2013.xml",
+		"/C/Users/elton.cezar/Desktop/recibo termico.txt",
+		"/C/Users/elton.cezar/Downloads/cnc_gold/CCGOLD_XP_INSTALL.txt",
+		"/C/Users/elton.cezar/Downloads/mess/roms/dir.txt",
+		"/C/Users/elton.cezar/Downloads/maparadar.txt",
+		"/F/Primo2.1/CONTENT/USERDATA/MeuDestino/LEIA-ME.TXT",
+		"/C/Projects/JS Projects/Jquery UI Dialog/css/styles.css",
+		"/C/Projects/JS Projects/Jquery UI Dialog/js/scripts.js",
+		"/C/Projects/JS Projects/Jquery UI Dialog/index.html",
+		"/C/Users/elton.cezar/Downloads/ModalWindowEffects/ModalWindowEffects/js/modalEffects.js",
+		"/C/Users/elton.cezar/Downloads/ModalWindowEffects/ModalWindowEffects/js/classie.js",
+		"/C/Users/elton.cezar/Downloads/ModalWindowEffects/ModalWindowEffects/index.html",
+		"/C/Users/elton.cezar/Downloads/ModalWindowEffects/ModalWindowEffects/css/default.css",
+		"/C/Users/elton.cezar/Downloads/ModalWindowEffects/ModalWindowEffects/css/component.css",
+		"/C/Users/elton.cezar/Downloads/JS/bootstrap3-dialog-master/js/bootstrap-dialog.js",
+		"/C/Users/elton.cezar/Downloads/JS/bootstrap3-dialog-master/css/bootstrap-dialog.css",
+		"/C/Users/elton.cezar/ownCloud/Android Games.txt",
+		"/C/Users/elton.cezar/Downloads/JS/Asp.NetjQueryFileUpload/example/upload.php",
+		"/C/Users/elton.cezar/AppData/Local/Temp/43120605563868000113550010000136681406535053-nfe.xml",
+		"/C/Users/elton.cezar/Downloads/JS/jQuery-File-Upload.MVC3-master/jQuery-File-Upload.MVC3-master/jQuery-File-Upload.MVC3/Content/FileUpload/tmpl.min.js",
+		"/C/Users/elton.cezar/Downloads/JS/syncfusionessentialjavascript/Read Me/JavaScript.html",
+		"/C/Projects/JS Projects/Telefonia/index.html",
+		"/C/Projects/JS Projects/Telefonia/js/scripts.js",
+		"/C/Projects/JS Projects/Telefonia/css/styles.css",
+		"/C/Projects/AFS/Source/Development/Sda.Afs.Mvc/Sda.Afs.View.Web/Views/ImportInvoices/Index.cshtml",
+		"/C/Projects/AFS/Source/Development/Sda.Afs.Mvc/Sda.Afs.View.Web/Scripts/_references.js",
+		"/C/Projects/JS Projects/Serial Scroll/demo/index.html",
+		"/C/Projects/JS Projects/Serial Scroll/demo/index2.html",
+		"/C/Projects/JS Projects/Serial Scroll/demo/index3.html",
+		"/C/Users/elton.cezar/.WebIde50/config/filetypes/CSHTML.xml",
+		"/C/Users/elton.cezar/Desktop/backup elton/Projects/CustomCropTool/CustomCropTool/Bin/Debug/Telerik.Windows.Controls.Input.xml",
+		"/C/Users/elton.cezar/.WebIde50/config/colors/KATzCool2.xml",
+		"/C/Users/elton.cezar/AppData/Local/Temp/Temp1_html5-boilerplate-4.3.0.zip/html5-boilerplate-4.3.0/css/main.css",
+		"/F/Nova pasta/1.txt",
+		"/C/Projects/JS Projects/Serial Scroll/demo/css/style.css",
+		"/C/Projects/JS Projects/Serial Scroll/jquery.serialScroll-1.2.4/demo/index.html",
+		"/C/Projects/JS Projects/Serial Scroll/jquery.serialScroll-1.2.4/jquery.serialScroll.min.js",
+		"/C/Projects/JS Projects/Serial Scroll/jquery.scrollTo-1.4.7/README.md",
+		"/C/Projects/JS Projects/Serial Scroll/jquery.scrollTo-1.4.7/demo/index.html",
+		"/C/Users/elton.cezar/AppData/Local/Temp/Temp1_dll1632.zip/VERSAO.TXT",
+		"/D/chronos.txt",
+		"/C/Users/elton.cezar/Downloads/office 2007/office 2007/Serial/serial.txt",
+		"/C/Users/elton.cezar/AppData/Local/Temp/1280539-1.txt",
+		"/C/Users/elton.cezar/AppData/Local/Temp/1280539.txt"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"rayman",
+			" \" ",
+			"outer",
+			"]",
+			"open(",
+			"openContextMenu",
+			"open",
+			"isopen",
+			"open",
+			"ticker",
+			"[HoD-EXT]",
+			"fade",
+			"md-show",
+			"md-trigger",
+			"ev.",
+			"metro colors",
+			"tahoma",
+			"tool tip",
+			"tooltip",
+			"text editor",
+			"tooltip",
+			"tip",
+			"tooltip",
+			"color",
+			"colors",
+			"color",
+			"tooltip",
+			"/*",
+			"*/"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\" "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 152.0
+	},
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 279.0,
+	"status_bar_visible": true
+}

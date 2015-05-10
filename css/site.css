@@ -1,0 +1,243 @@
+/*#region resets */
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+body {
+    line-height: 1;
+}
+ol, ul {
+    list-style: none;
+}
+blockquote, q {
+    quotes: none;
+}
+blockquote:before, blockquote:after, q:before, q:after {
+    content: '';
+    content: none;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+/*#endregion resets */
+
+body {
+    background-color: #49cada;
+    text-align: center;
+    font-family: 'Passion One', cursive;
+    text-transform: uppercase;
+    font-weight: 700;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+ul {
+    margin-top: 25px;
+    background-color: #BDEB1F;
+    border: 3px solid #72900F;
+    border-radius: 8px;
+    color: white;
+    font-size: 50px;
+    width: 70%;
+    -webkit-text-stroke: 1px #708D0F;
+    color: white;
+    text-shadow: 3px 3px 0 #708D0F, -1px -1px 0 #708D0F, 1px -1px 0 #708D0F, -1px 1px 0 #708D0F, 1px 1px 0 #708D0F;
+}
+ul li {
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-top: 3px solid #E0FE78;
+    border-bottom: 3px solid #72900F;
+}
+ul li:first-child {
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+ul li:last-child {
+    border-bottom: none;
+}
+div#selected-word {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: #FED079;
+    border-radius: 12px;
+    overflow: hidden;
+    border: solid 2px #E4A122;
+    position: relative;
+    z-index: 10;
+}
+div#selected-word-outer {
+    cursor: pointer;
+    width: 90%;
+    background: #FEE1A9;
+    border-radius: 12px;
+    border: solid 2px #E4A122;
+    padding: 3px;
+    -webkit-box-shadow: 1px 2px 10px 1px rgba(0, 0, 0, .2);
+    -moz-box-shadow: 1px 2px 10px 1px rgba(0, 0, 0, .2);
+    box-shadow: 1px 2px 10px 1px rgba(0, 0, 0, .2);
+}
+div#selected-word-gloss {
+    background: #FEB326;
+    height: 65px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    z-index: 5;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+}
+div#selected-word-text {
+    font-size: 70px;
+    z-index: 200;
+    position: relative;
+    text-align: center;
+    -webkit-text-stroke: 1px #E4A122;
+    color: white;
+    text-shadow: 3px 3px 0 #E4A122, -1px -1px 0 #E4A122, 1px -1px 0 #E4A122, -1px 1px 0 #E4A122, 1px 1px 0 #E4A122;
+}
+div#startgame-button {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: #FED079;
+    border-radius: 12px;
+    overflow: hidden;
+    border: solid 2px #E4A122;
+    position: relative;
+    z-index: 10;
+}
+div#startgame-button-outer {
+    cursor: pointer;
+    width: 90%;
+    background: #FEE1A9;
+    border-radius: 12px;
+    border: solid 2px #E4A122;
+    padding: 3px;
+    -webkit-box-shadow: 1px 2px 10px 1px rgba(0, 0, 0, .2);
+    -moz-box-shadow: 1px 2px 10px 1px rgba(0, 0, 0, .2);
+    box-shadow: 1px 2px 10px 1px rgba(0, 0, 0, .2);
+}
+div#startgame-button-gloss {
+    background: #FEB326;
+    height: 65px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    z-index: 5;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+}
+div#startgame-button-text {
+    font-size: 70px;
+    z-index: 200;
+    position: relative;
+    text-align: center;
+    -webkit-text-stroke: 1px #E4A122;
+    color: white;
+    text-shadow: 3px 3px 0 #E4A122, -1px -1px 0 #E4A122, 1px -1px 0 #E4A122, -1px 1px 0 #E4A122, 1px 1px 0 #E4A122;
+}
+.arrow-button {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: #DD1C31;
+    border-radius: 75px;
+    overflow: hidden;
+    border: solid 2px #A52224;
+    position: relative;
+    z-index: 10;
+}
+.arrow-button-outer {
+    cursor: pointer;
+    font-size: 95px;
+    width: 120px;
+    height: 120px;
+    background: #E1A0A0;
+    border-radius: 75px;
+    border: solid 2px #A52224;
+    padding: 3px;
+    -webkit-box-shadow: 1px 2px 10px 1px rgba(0, 0, 0, .2);
+    -moz-box-shadow: 1px 2px 10px 1px rgba(0, 0, 0, .2);
+    box-shadow: 1px 2px 10px 1px rgba(0, 0, 0, .2);
+}
+.arrow-button-gloss {
+    background: #BC2729;
+    height: 85px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    z-index: 5;
+    border-top-right-radius: 65px;
+    border-top-left-radius: 65px;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+}
+.arrow-button:hover {
+    background: #A52224;
+}
+.arrow-button-text {
+    z-index: 200;
+    position: relative;
+    text-align: center;
+    -webkit-text-stroke: 1px #821B1C;
+    color: white;
+    text-shadow: 3px 3px 0 #821B1C, -1px -1px 0 #821B1C, 1px -1px 0 #821B1C, -1px 1px 0 #821B1C, 1px 1px 0 #821B1C;
+}
+#next-button {
+    margin-top: 25px;
+    float: right;
+}
+#skip-button {
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 25px;
+}
+#container {
+    width: 70%;
+    margin: 0 auto;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+.text-center {
+    text-align: center;
+}
+#logo {
+    width: 50%;
+    margin-bottom: 50px;
+}
+#logo-text {
+    font-size: 170px;
+    text-align: center;
+    -webkit-text-stroke: 1px #154352;
+    color: #59D1A8;
+    text-shadow: 3px 3px 0 #154352, -1px -1px 0 #154352, 1px -1px 0 #154352, -1px 1px 0 #154352, 1px 1px 0 #154352;
+}

@@ -1,0 +1,13 @@
+<div id="result">
+	<div>{{currentTeam.name}}</div>
+	<div>{{game.roundPoints}}</div>
+</div>
+
+<div id="scores">
+	<div ng-repeat="team in game.teams">
+		<div>{{team.name}}</div>
+		<div>{{team.points}}</div>
+	</div>
+</div>
+
+<div id="button" ng-click="nextRound()">PRÓXIMO</div>
